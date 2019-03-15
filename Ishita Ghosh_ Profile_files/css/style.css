@@ -102,7 +102,7 @@ span.menu {
   margin-right: 13em;
 }
 .header{
-	background: url(../Images/banner.JPG) no-repeat 0px -127px;
+	background: url(../Images/banner.jpg) no-repeat 0px -127px;
 	
   background-size: cover;
   min-height: 600px;
@@ -240,7 +240,7 @@ label{
 .about-left{
 	float: left;
   width: 40%;
-  background: url(../Images/aboutme.JPG) no-repeat 0px -113px;
+  background: url(../Images/aboutme.jpg) no-repeat 0px -113px;
   min-height: 500px;
   background-size: cover;
 }
@@ -567,7 +567,7 @@ padding:2em 0 0.5em 0;
 /*--responsive--*/
 @media (max-width: 1280px){
 .about-left {
-  background: url(../Images/aboutme.JPG) no-repeat 0px -77px;
+  background: url(../Images/aboutme.jpg) no-repeat 0px -77px;
   min-height: 332px;
   background-size: cover;
 }
@@ -586,7 +586,7 @@ padding:2em 0 0.5em 0;
   font-size: 3em;
 }
 .header {
-  background: url(../Images/banner.JPG) no-repeat 0px 0;
+  background: url(../Images/banner.jpg) no-repeat 0px 0;
   opacity:0.8;
   background-size: cover;
   min-height: 494px;
@@ -612,7 +612,7 @@ padding:2em 0 0.5em 0;
   font-size: 1.6em;
 }
 .about-left {
-  background: url(../Images/aboutme.JPG) no-repeat 0px -2px;
+  background: url(../Images/aboutme.jpg) no-repeat 0px -2px;
   min-height: 364px;
   background-size: cover;
   width: 52.2%;
@@ -721,7 +721,7 @@ padding:2em 0 0.5em 0;
 }
 @media (max-width: 768px){
 .header {
-	   background: url(../Images/banner.JPG) no-repeat 0px 0;
+	   background: url(../Images/banner.jpg) no-repeat 0px 0;
 	   opacity:0.8;
 	   background-size:cover;
   min-height: 400px;
@@ -957,7 +957,7 @@ padding:2em 0 0.5em 0;
   margin-top: 2em;
 }
 .about-left {
-  background: url(../Images/aboutme.JPG) no-repeat 0px -33px;
+  background: url(../Images/aboutme.jpg) no-repeat 0px -33px;
   min-height: 348px;
   background-size: cover;
   width: 100%;
@@ -1048,7 +1048,7 @@ span.menu {
 }
 
 .header {
-  background: url(../Images/banner.JPG) no-repeat -75px 0px;
+  background: url(../Images/banner.jpg) no-repeat -75px 0px;
   opacity:0.8;
   background-size: cover;
   min-height: 335px;
@@ -1102,7 +1102,7 @@ span.menu {
 }
 @media(max-width:414px){
 .header {
-  background: url(../Images/banner.JPG) no-repeat -124px 0px;
+  background: url(../Images/banner.jpg) no-repeat -124px 0px;
   opacity:0.8;
   background-size: cover;
 }
@@ -1112,7 +1112,7 @@ span.menu {
 }
 @media(max-width:384px){
 .header {
-  background: url(../Images/banner.JPG) no-repeat -158px 0px;
+  background: url(../Images/banner.jpg) no-repeat -158px 0px;
   opacity:0.8;
   background-size: cover;
   min-height: 335px;
@@ -1129,7 +1129,7 @@ span.menu {
   left: 35%;
 }
 .header {
-  background: url(../Images/banner.JPG) no-repeat -154px 0px;
+  background: url(../Images/banner.jpg) no-repeat -154px 0px;
   opacity:0.8;
   background-size: cover;
   min-height: 276px;
@@ -1164,7 +1164,7 @@ span.menu {
 }
 .about-left {
   min-height: 204px;
-  background: url(../Images/aboutme.JPG) no-repeat 0px 0px;
+  background: url(../Images/aboutme.jpg) no-repeat 0px 0px;
   background-size:cover;
 }
 .about-right h3, .service h3, .gallery h3, .blog h3, .contact h3, .experience h3, .skill h3 {
